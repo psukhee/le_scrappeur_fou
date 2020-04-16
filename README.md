@@ -14,7 +14,11 @@ réinstallation de la VM => tous les dossers perdus
 
 réinstallation ruby + gems
 
-installation ruby 2.7.1 => non compatible
+reprise de l'exercice depuis le début
+
+incompatibilité avec ruby 2.7.1
+
+desespoire
 
 désintallation
 
