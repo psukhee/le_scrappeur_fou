@@ -1,8 +1,12 @@
 # le_scrappeur_fou
 
-tentatives + corrections x beaucoup trop
+tentatives + corrections
 
-test concluant
+tentatives + corrections
+
+tentatives + corrections
+
+tests concluant
 
 crash de la VM juste avant le push
 
